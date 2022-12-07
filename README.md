@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Image text]([https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg](https://github.com/Brian-David-01/Brian-David-01/blob/main/Fondo%20de%20portada.gif])
-
-![alt-text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg](https://github.com/Brian-David-01/Brian-David-01/blob/main/Fondo%20de%20portada.gif)
