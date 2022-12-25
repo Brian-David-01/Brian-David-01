@@ -64,27 +64,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-## Proyectos más destacados
-
-## Seguimiento Pacientes Veterinaria
-
-![App Screenshot](https://i.ibb.co/8dm35R2/Citas-React-Principal.png?text=Veterinaria+Con+ReactJS+y+Vite)
-
-Visualizar proyecto:
-https://veterinaria-reactjs-git.netlify.app/
-
-## Salón Golden Palace JR
-![App Screenshot](https://i.ibb.co/7Y1F91s/Golden-Palace-Principal.png?text=Salon+Golden+Palace+JR)
-
-Visualizar proyecto:
-https://goldenpalacejr.com.mx/
-
-## Corporativo Fox
-![App Screenshot](https://i.ibb.co/q91LRK6/Corporativo-Fox-Principal.png?text=Corporativo)
-
-Visualizar proyecto:
-https://www.corporativofox.com/
   
 
 ----
