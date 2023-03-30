@@ -4,14 +4,14 @@
 
 ### <div align="center">Hola, soy Brian David, un desarrollador independiente front-end a tiempo completo 👨‍💻 </div>  
    
- 
+  
 <br/>  
 
 
 ## Aprendiendo ...    
 <table><tr><td valign="top" width="50%">
 
- 
+  
 
 ### Frontend    
 <div align="center">  
